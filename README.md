@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Game of Thrones Characters
+Simple react typescript application that lists characters from Game of Throne world and displays a few details for selected character.
 
 ## Available Scripts
 
