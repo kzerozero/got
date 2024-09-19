@@ -49,6 +49,7 @@ const GotMain = () => {
   return (
     <main className="page main" title="GOT Main Page">
       <h1>Game of Thrones</h1>
+      <h2>Memorable Quotes</h2>
       <Filter handleSearchChange={ handleSearchChange }  />
 
       { // TODO: add spinner
